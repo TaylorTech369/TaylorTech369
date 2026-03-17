@@ -14,7 +14,7 @@
 
 </head>
 <body>
-
+<br>
     <!-- Uma caixa para guardar informações, nesse caso, algumas frases -->
     <div id="titulo">
     <!-- O título NA pasta, basicamente, ele fará as letras terem o maior tamanho -->
