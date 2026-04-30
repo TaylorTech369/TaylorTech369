@@ -1,3 +1,3 @@
-<div style="background-color: #f6f8fa">
+<div>
   <h1>Teste Titulo</h1>
 </div>
