@@ -1,5 +1,5 @@
 
-# **Olá pessoa, aqui você verá alguns de meus projetos 🌎**
+# **Seja bem vindo 🌎**
 
 ---
 
